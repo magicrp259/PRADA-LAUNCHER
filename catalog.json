@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "catalog_name": "PRADA LAUNCHER",
+  "release_tag": "mods-v1.0",
+  "release_status": "draft",
+  "notice": "Ссылки заработают после публикации релиза. Пути установки и контрольные суммы требуют проверки до включения кнопок установки.",
+  "mods": [
+    {
+      "id": "prada-01",
+      "name": "PRADA REDUX — Загрузочный экран",
+      "category": "Интерфейс",
+      "version": "1.0",
+      "asset_name": "PRADA.REDUX.Loading.screen.server.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA.REDUX.Loading.screen.server.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-02",
+      "name": "PRADA BANGCLAW RESKIN",
+      "category": "Карты и окружение",
+      "version": "1.0",
+      "asset_name": "PRADA_BANGCLAW.RESKIN.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_BANGCLAW.RESKIN.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-03",
+      "name": "PRADA REDUX — Баннеры серверов",
+      "category": "Интерфейс",
+      "version": "1.0",
+      "asset_name": "PRADA_REDUX_Server.Banners.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_REDUX_Server.Banners.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-04",
+      "name": "PRADA RESKIN — Agent CIA",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Agent.CIA.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Agent.CIA.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-05",
+      "name": "PRADA RESKIN — Blundergat",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Blundergat.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Blundergat.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-06",
+      "name": "PRADA RESKIN — Dragon Deagle",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Dragon.Deagle.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Dragon.Deagle.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-07",
+      "name": "PRADA RESKIN — Kaneki Ken",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Kaneki.Ken.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Kaneki.Ken.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-08",
+      "name": "PRADA RESKIN — Kitana",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Kitana.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Kitana.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-09",
+      "name": "PRADA RESKIN — Lisa",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Lisa.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Lisa.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-10",
+      "name": "PRADA RESKIN — Models",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Models.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Models.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-11",
+      "name": "PRADA RESKIN — Muffler",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Muffler.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Muffler.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-12",
+      "name": "PRADA RESKIN — Peritya",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Peritya.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Peritya.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-13",
+      "name": "PRADA RESKIN — PHONE",
+      "category": "Предметы",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.PHONE.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.PHONE.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-14",
+      "name": "PRADA RESKIN — Poyo",
+      "category": "Модели",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Poyo.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Poyo.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-15",
+      "name": "PRADA RESKIN — Sledgehammer",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Sledgehammer.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Sledgehammer.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-16",
+      "name": "PRADA RESKIN — Taser",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.Taser.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.Taser.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-17",
+      "name": "PRADA RESKIN — UNO REVERSE",
+      "category": "Предметы",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.UNO.REVERSE.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.UNO.REVERSE.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-18",
+      "name": "PRADA RESKIN — VIRTUOUS CONTRACT",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.VIRTUOUS.CONTRACT.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.VIRTUOUS.CONTRACT.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-19",
+      "name": "PRADA RESKIN",
+      "category": "Прочее",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-20",
+      "name": "PRADA RESKIN — M9K Pistols",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN_M9K.Pistols.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN_M9K.Pistols.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-21",
+      "name": "PRADA RESKIN — M9K Shotguns and Snipers",
+      "category": "Оружие",
+      "version": "1.0",
+      "asset_name": "PRADA_RESKIN_M9K.Shotguns.and.Snipers.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_RESKIN_M9K.Shotguns.and.Snipers.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    },
+    {
+      "id": "prada-22",
+      "name": "PRADA SkyBox by Try Hard",
+      "category": "Карты и окружение",
+      "version": "1.0",
+      "asset_name": "PRADA_SkyBox.by.Try.Hard.zip",
+      "download_url": "https://github.com/magicrp259/PRADA-LAUNCHER/releases/download/mods-v1.0/PRADA_SkyBox.by.Try.Hard.zip",
+      "installation": {
+        "status": "pending_archive_inspection",
+        "destination": null
+      },
+      "sha256": null
+    }
+  ]
+}
